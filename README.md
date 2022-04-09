@@ -1,3 +1,0 @@
-# webshare
-
-foo
